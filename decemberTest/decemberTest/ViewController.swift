@@ -13,8 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    //add some code
-    //add new code 
+    func addNewFunction(){
+        print("function")
+    }
 
 
 }
